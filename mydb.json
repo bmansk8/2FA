@@ -1,0 +1,13 @@
+{
+  "user": {
+    "a60d0121-d5ff-4d38-860c-cc2d4453a043": {
+      "id": "a60d0121-d5ff-4d38-860c-cc2d4453a043",
+      "secret": {
+        "ascii": "/O{(p5^ZkdzAX]T!7oqX30x.<4a9Eq#D",
+        "hex": "2f4f7b2870355e5a6b647a41585d5421376f71583330782e3c34613945712344",
+        "base32": "F5HXWKDQGVPFU23EPJAVQXKUEE3W64KYGMYHQLR4GRQTSRLRENCA",
+        "otpauth_url": "otpauth://totp/SecretKey?secret=F5HXWKDQGVPFU23EPJAVQXKUEE3W64KYGMYHQLR4GRQTSRLRENCA"
+      }
+    }
+  }
+}
